@@ -1,2 +1,2 @@
-# edx-BerkeleyX-CS100.1x-Spark
-edx-BerkeleyX: CS100.1x Introduction to Big Data with Apache Spark
+# mooc-setup
+Information for setting up for the Spark MOOC, and lab assignments for the course.
